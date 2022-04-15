@@ -23,7 +23,7 @@ test("gets enemy's health value ", () => {
 test("checks if enemy is alive or not", () => {
     const enemy = new Enemy("goblin", "sword");
 
-    expect(enemy.isAlive()).toBeFalsy();
+    expect(enemy.isAlive()).toBeTruthy();
 
     enemy.health = 0;
 
