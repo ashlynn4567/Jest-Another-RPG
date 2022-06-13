@@ -37,7 +37,9 @@ test("gets inventory from player or returns false", () => {
 test("gets player's health value", () => {
     const player = new Player("Dave");
 
-    expect(player.getHealth()).toEqual(expect.stringContaining(player.health.toString()));
+    expect(player.getHealth()).toEqual(
+        expect.stringContaining(player.health.toString())
+    );
 });
 
 test("checks if player is alive or not", () => {
