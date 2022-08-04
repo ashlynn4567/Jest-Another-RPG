@@ -77,7 +77,7 @@ I don't believe I wish to develop this code any further. This application was cr
 
 However, if you wish to contact me for any reason regarding this codebase, please contact me at the links below:
 
-- <a href="mailto:ashlynn4567@gmail.com">Email</a>
+- <a href="mailto:ashleylynnsmith.dev@gmail.com">Email</a>
 - <a href="https://github.com/ashlynn4567">GitHub</a>
 - <a href="https://www.linkedin.com/in/ashley-lynn-smith/">LinkedIn</a>
 
